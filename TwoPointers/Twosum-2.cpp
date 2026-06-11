@@ -19,6 +19,13 @@ vector<int>twoSum(vector<int>&nums,int target)
     return {};
 }
 
+/*
+problem no:167 in LC
+Approach: Use Two Pointers 
+Time complexity : O(n)
+Space complexity : O(1)
+*/
+
 int main()
 {
     vector<int>nums={2,7,11,15};
