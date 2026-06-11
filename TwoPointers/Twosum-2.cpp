@@ -1,3 +1,10 @@
+/*
+problem no:167 in LC
+Approach: Use Two Pointers 
+Time complexity : O(n)
+Space complexity : O(1)
+*/
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -18,13 +25,6 @@ vector<int>twoSum(vector<int>&nums,int target)
     }
     return {};
 }
-
-/*
-problem no:167 in LC
-Approach: Use Two Pointers 
-Time complexity : O(n)
-Space complexity : O(1)
-*/
 
 int main()
 {
