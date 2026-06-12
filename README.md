@@ -1,9 +1,10 @@
-# DSA-Solutions_LeetCode
+# DSA-Solutions-LeetCode
 
 This Repository contains my DSA practice solutions
 
 # Topics
   -TwoPointers
      --Two sum-II ->LeetCode-167
-     
+     --Three sum ->Leetcode-15
+
 
