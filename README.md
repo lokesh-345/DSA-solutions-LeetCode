@@ -6,6 +6,7 @@ This Repository contains my DSA practice solutions
 ## TwoPointers
      --Two sum-II ->LeetCode-167
      --Three sum ->Leetcode-15
-     ->Squares of Sorted Array -LeetCode-977
+     --Squares of Sorted Array ->LeetCode-977
+     --valid palindrome ->LeetCode-125
 
 
