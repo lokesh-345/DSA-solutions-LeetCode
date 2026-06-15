@@ -8,5 +8,6 @@ This Repository contains my DSA practice solutions
      --Three sum ->Leetcode-15
      --Squares of Sorted Array ->LeetCode-977
      --valid palindrome ->LeetCode-125
+     --3Sum closest ->LeetCode-16
 
 
